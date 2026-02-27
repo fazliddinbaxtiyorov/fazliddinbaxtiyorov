@@ -109,8 +109,7 @@ developer = {
 
 <div align="center">
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=fazliddinbaxtiyorov&theme=gitdimmed&no-frame=true&row=1&column=6&margin-w=10)
-
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=fazliddinbaxtiyorov&theme=darkhub&no-frame=true&row=1&column=6&margin-w=10)
 </div>
 
 ---
