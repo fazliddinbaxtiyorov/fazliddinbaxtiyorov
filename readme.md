@@ -57,14 +57,6 @@ developer = {
 
 </div>
 
-| 🇺🇿 Xususiyat | 🇬🇧 Feature |
-|---|---|
-| 📖 IELTS Reading, Listening, Writing | 📖 IELTS Reading, Listening, Writing |
-| 🎓 SAT va DTM tayyorgarlik | 🎓 SAT and DTM preparation |
-| 🤖 AI yordamida xatolarni tushuntirish | 🤖 AI-powered error explanations |
-| 📊 Shaxsiy analytics va progress | 📊 Personal analytics & progress tracking |
-| 🏆 Leaderboard va do'stlar tizimi | 🏆 Leaderboard & friends system |
-| 💰 Coin tizimi va chegirmalar | 💰 Coin system & streak discounts |
 
 ---
 
@@ -137,7 +129,7 @@ developer = {
 
 <div align="center">
 
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/fazliddin_dev)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/moonblack7)
 [![UniBase](https://img.shields.io/badge/UniBase-0d1117?style=for-the-badge&logo=google-chrome&logoColor=58a6ff)](https://unibase.uz)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/fazliddinbaxtiyorov)
 
