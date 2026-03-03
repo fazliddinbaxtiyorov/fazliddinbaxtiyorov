@@ -32,14 +32,6 @@ developer = {
 
 </td>
 <td>
-
-🇺🇿 O'zbekistondan | From Uzbekistan  
-🎓 UniBase platformasi muallifi  
-🌐 [unibase.uz](https://unibase.uz)  
-🤖 AI integratsiyasi bilan ishlaydi  
-📚 Har kuni yangi narsa o'rganadi  
-💡 Open source loyihalarga qiziqadi  
-
 </td>
 </tr>
 </table>
