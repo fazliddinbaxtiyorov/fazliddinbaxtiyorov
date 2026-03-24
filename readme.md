@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Salom!+Men+Fazliddin+%F0%9F%91%8B;Hello!+I'm+Fazliddin;Full+Stack+Developer+%7C+Python+%26+Django;UniBase+loyihasi+muallifi+%F0%9F%9A%80;Building+EdTech+for+Uzbekistan+%F0%9F%8E%93)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Salom!+Men+Fazliddin+%F0%9F%91%8B;Hello!+I'm+Fazliddin;Developer+%7C+Python+%26+Django;%F0%9F%9A%80;Building+EdTech+for+Uzbekistan+%F0%9F%8E%93)](https://git.io/typing-svg)
 
 </div>
 
@@ -17,8 +17,6 @@
 ```python
 developer = {
     "name"    : "Fazliddin Baxtiyorov",
-    "role"    : "Full Stack Developer",
-    "project" : "UniBase 🎓",
     "website" : "unibase.uz",
     "stack"   : [
         "Python", "Django", "DRF",
