@@ -5,51 +5,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Salom!+Men+Fazliddin+%F0%9F%91%8B;Hello!+I'm+Fazliddin;Developer+%7C+Python+%26+Django;%F0%9F%9A%80;Building+EdTech+for+Uzbekistan+%F0%9F%8E%93)](https://git.io/typing-svg)
 
 </div>
-
----
-
-## 👨‍💻 Men haqimda | About Me
-
-<table>
-<tr>
-<td>
-
-```python
-developer = {
-    "name"    : "Fazliddin Baxtiyorov",
-    "website" : "unibase.uz",
-    "stack"   : [
-        "Python", "Django", "DRF",
-        "PostgreSQL", "SQLite",
-        "Docker", "Nginx", "Git"
-    ],
-    "goal": "EdTech for Uzbekistan 🇺🇿",
-    "status": "Always learning 🚀"
-}
-```
-
-</td>
-<td>
-</td>
-</tr>
-</table>
-
----
-
-## 🚀 Asosiy Loyiha | Main Project
-
-<div align="center">
-
-### 🎓 [UniBase — unibase.uz](https://unibase.uz)
-
-> O'zbekiston yoshlari uchun IELTS, SAT, DTM va Milliy Sertifikat tayyorgarlik platformasi  
-> An educational platform for Uzbek students preparing for IELTS, SAT & DTM exams
-
-</div>
-
-
----
-
 ## 🛠 Texnologiyalar | Tech Stack
 
 <div align="center">
@@ -94,16 +49,6 @@ developer = {
 </div>
 
 ---
-
-## 🏆 GitHub Yutuqlar | Achievements
-
-<div align="center">
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=fazliddinbaxtiyorov&theme=darkhub&no-frame=true&row=1&column=6&margin-w=10)
-</div>
-
----
-
 ## 📈 Faollik Grafigi | Activity Graph
 
 <div align="center">
